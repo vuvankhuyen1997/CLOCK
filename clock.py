@@ -17,7 +17,7 @@ running = True
 total_secs = 0
 total = 0
 
-sound = pygame.mixer.Sound("alarm.wav")
+sound = pygame.mixer.Sound("alarm.wav") #download from internet
 
 clock = pygame.time.Clock()
 
