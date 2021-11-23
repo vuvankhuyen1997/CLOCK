@@ -36,7 +36,6 @@ while running:
 
 
 	screen.fill(GREY)
-
 	mouse_x, mouse_y = pygame.mouse.get_pos()
 
 	pygame.draw.rect(screen, WHITE, (100,50,50,50))
